@@ -39,7 +39,7 @@ namespace Atividades
                 }
 
                 Dados_matriz.Text += "\n";
-                Dados_Matriz2.Text = "\n";
+                Dados_Matriz2.Text += "\n";
 
 
             }
